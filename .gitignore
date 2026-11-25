@@ -1,0 +1,9 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Dataset/
+*.tar.gz
+*.h5
+*.pt
+*.pth
+.env
